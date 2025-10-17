@@ -1,2 +1,2 @@
-# CSGBD-Indices-Java
-Especificação da API para implementação do trabalho sobre índices
+# CSGBD-Indices
+Especificação da API para implementação do trabalho da disciplina de CSGB sobre índices
