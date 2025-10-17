@@ -32,7 +32,7 @@ Participação e histórico de commits no GitHub: 1,5
 Os alunos devem testar suas implementações com chaves inteiras (ex: 1 a 50) em ordens aleatórias, incluindo inserções e remoções, mostrando o comportamento de splits e merges.
 
 ## 9. Entrega
-Os arquivos devem ser enviados em formato .zip contendo: código-fonte, README, prints de execução (opcional) e o link do repositório GitHub (obrigatório).
+Os arquivos devem ser enviados em formato .zip contendo: código-fonte, README, prints de execução e o link do repositório GitHub (obrigatório).
 
 ## 10. Apresentação do Trabalho
 Além da entrega no formato digital e do repositório no GitHub, o trabalho deverá ser apresentado para a professora da disciplina. Durante a apresentação, os alunos deverão demonstrar o funcionamento das estruturas implementadas (Hash Extensível e Árvore B+), explicando o código, as principais decisões de projeto e os resultados obtidos. A apresentação servirá para validar a autoria do trabalho e complementar a avaliação prática. As apresentações ocorrerão nos dias 13 e (se necessário) 14 de novembro. 
